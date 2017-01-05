@@ -7,3 +7,4 @@ Android系统组件演示
 ![image](https://github.com/haibofaith/Widget/blob/master/popWindow.gif)
 
 2.ViewDragHelper</br>
+![image](https://github.com/haibofaith/Widget/blob/master/ViewDragHelper.gif)
